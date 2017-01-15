@@ -30,7 +30,7 @@ nav ul {
 
 a {
     text-decoration: none;
-    color: white;
+    color: grey;
 }
 
 nav ul li {
@@ -90,10 +90,19 @@ textarea {
 
 img{
   align-items: center;
-  border: solid black 2px;
+  display: block;
+  margin: auto;
 }
 
 a{
   margin-bottom: 5px;
   padding: 3px;
+}
+
+.container
+{
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
 }
