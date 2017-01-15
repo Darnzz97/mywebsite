@@ -23,7 +23,7 @@ footer {
 nav ul {
     background-color: black;
     overflow: hidden;
-    color: blue
+    color: blue;
     padding: 20px;
     text-align: right;
 }
@@ -38,8 +38,7 @@ nav ul li {
     display: inline-block;
 }
 
-nav ul li:hover;
-{
+nav ul li{
     background-color: black;
     padding: 20px;
 }
@@ -91,10 +90,10 @@ textarea {
 
 img{
   align-items: center;
-  border: solid black 2px
+  border: solid black 2px;
 }
 
 a{
-  margin-bottom: 5px
-  padding: 3px
+  margin-bottom: 5px;
+  padding: 3px;
 }
